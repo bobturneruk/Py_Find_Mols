@@ -3,4 +3,3 @@ matplotlib
 pandas
 scikit-image
 astropy
-jupyter==6.0.0
