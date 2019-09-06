@@ -3,9 +3,9 @@ matplotlib
 pandas
 scikit-image
 astropy
-jupyter==1.0.0==py37_7
-jupyter_client==5.3.1==py_0
-jupyter_console==6.0.0==py37_0
-jupyter_core==4.5.0==py_0
-jupyterlab==1.0.2=p=y37hf63ae98_0
-jupyterlab_server==1.0.0==py_0
+jupyter=1.0.0=py37_7
+jupyter_client=5.3.1=py_0
+jupyter_console=6.0.0=py37_0
+jupyter_core=4.5.0=py_0
+jupyterlab=1.0.2=py37hf63ae98_0
+jupyterlab_server=1.0.0=py_0
